@@ -1,0 +1,111 @@
+﻿regione;provincia;pop;redPro;sperVita
+Abruzzo;Chieti;390962;16855.92;82.5
+Abruzzo;L'Aquila;303239;17915.48;82.3
+Abruzzo;Pescara;321973;18084.91;82.3
+Abruzzo;Teramo;310339;16212.22;82.1
+Basilicata;Matera;200597;15401.6;82.1
+Basilicata;Potenza;373097;15835.83;82
+Calabria;Catanzaro;363057;15546.8;82.2
+Calabria;Cosenza;714400;14286.12;81.9
+Calabria;Crotone;174712;13536.94;81.5
+Calabria;Reggio di Calabria;555836;14961.93;81.7
+Calabria;Vibo Valentia;162516;13842.17;81.9
+Campania;Avellino;425325;15625;81.6
+Campania;Benevento;280707;15081.85;81.1
+Campania;Caserta;924414;15912.23;80.5
+Campania;Napoli;3113898;17678.43;80
+Campania;Salerno;1106506;15590.61;81.2
+Emilia-Romagna;Bologna;1005831;23762.52;83
+Emilia-Romagna;Ferrara;351436;19679.5;81.4
+Emilia-Romagna;Modena;701642;22227.88;83.3
+Emilia-Romagna;Parma;447779;23214.69;82.9
+Emilia-Romagna;Piacenza;286997;21601.57;82.3
+Emilia-Romagna;Ravenna;391525;20258.95;83.2
+Emilia-Romagna;Reggio nell'Emilia;532872;21955.67;82.8
+Emilia-Romagna;Rimini;335463;18032.85;83.5
+Emilia-Romagna;Forli-Cesena;394601;19417.19;83.1
+Friuli-Venezia Giulia;Gorizia;140268;19982.54;82
+Friuli-Venezia Giulia;Pordenone;312794;20393.14;83.3
+Friuli-Venezia Giulia;Trieste;234874;22499.15;81.8
+Friuli-Venezia Giulia;Udine;533282;20375.32;82.4
+Lazio;Frosinone;495026;16882.49;82
+Lazio;Latina;574226;16964.65;82.1
+Lazio;Rieti;158467;18194.75;81.6
+Lazio;Roma;4340474;23727.6;82.5
+Lazio;Viterbo;320279;17670.69;81.1
+Liguria;Genova;854099;22345.34;82.2
+Liguria;Imperia;215244;17874.32;82.3
+Liguria;La Spezia;221003;20654.77;82.3
+Liguria;Savona;280707;20138.55;82.2
+Lombardia;Bergamo;1108298;21735.87;82.4
+Lombardia;Brescia;1264105;20854.58;82.8
+Lombardia;Como;599654;22201.76;83
+Lombardia;Cremona;360444;21376.04;82
+Lombardia;Lecco;339254;23374.19;82.9
+Lombardia;Lodi;229413;22088.86;81.9
+Lombardia;Mantova;412868;20249.94;82.6
+Lombardia;Milano;3208509;27165.91;83.2
+Lombardia;Monza e della Brianza;866076;24054.01;83.3
+Lombardia;Pavia;547926;21570.84;81.7
+Lombardia;Sondrio;181712;19304.07;82.3
+Lombardia;Varese;890090;22514.59;82.9
+Marche;Ancona;476192;19915.82;83.1
+Marche;Ascoli Piceno;210066;17653.67;82.8
+Marche;Fermo;175625;17234.94;82.4
+Marche;Macerata;320308;18028.66;82.9
+Marche;Pesaro e Urbino;361561;18565.71;83.2
+Molise;Campobasso;225622;15601.25;82.3
+Molise;Isernia;86405;15519.74;81.6
+Piemonte;Alessandria;428826;20308.03;81.6
+Piemonte;Asti;217574;19475.25;81.5
+Piemonte;Biella;179685;20490.73;81.3
+Piemonte;Cuneo;590421;19951.84;82
+Piemonte;Novara;370525;22079.77;82.3
+Piemonte;Torino;2282197;22383.76;82.5
+Piemonte;Verbano-Cusio-Ossola;160114;19109.3;81.5
+Piemonte;Vercelli;174904;20261.61;81.4
+Puglia;Bari;1263820;17129.41;82.8
+Puglia;Barletta-Andria-Trani;393534;14401.25;82.2
+Puglia;Brindisi;398661;15404.23;82
+Puglia;Foggia;630851;14525.28;81.9
+Puglia;Lecce;804239;15089.04;82.3
+Puglia;Taranto;586061;16725.73;82.6
+Sardegna;Cagliari;561289;19164.76;82.9
+Sardegna;Carbonia-Iglesias;127062;16352.36;81.8
+Sardegna;Medio-Campidano;99320;14354.76;80.8
+Sardegna;Nuoro;157078;15430.3;81.7
+Sardegna;Ogliastra;57318;15028.37;80.8
+Sardegna;Olbia-Tempio;160368;16571.36;82.3
+Sardegna;Oristano;161600;15391.91;82.1
+Sardegna;Sassari;334103;17502.3;82.4
+Sicilia;Agrigento;445129;13907.93;81.6
+Sicilia;Caltanissetta;271758;14740.17;81.1
+Sicilia;Catania;1115535;16357.39;81.4
+Sicilia;Enna;169782;13934.91;81.2
+Sicilia;Messina;640675;16456.3;81.2
+Sicilia;Palermo;1271406;17280.32;81.5
+Sicilia;Ragusa;320226;13985.6;81.9
+Sicilia;Siracusa;403985;16357.57;80.8
+Sicilia;Trapani;435765;14631.72;81.7
+Toscana;Arezzo;345110;19204.31;83
+Toscana;Firenze;1013348;22091.88;83.4
+Toscana;Grosseto;223652;18221.23;82.1
+Toscana;Livorno;337951;20338.38;82.2
+Toscana;Lucca;391228;19940.28;82
+Toscana;Massa-Carrara;197722;19513.3;81.6
+Toscana;Pisa;420913;20795.71;82.7
+Toscana;Pistoia;291963;18790.76;83.2
+Toscana;Prato;253123;19191.02;83.3
+Toscana;Siena;269388;20385.7;83.1
+Trentino-Alto Adige/Südtirol;Bolzano;520891;21875.03;83.2
+Trentino-Alto Adige/Südtirol;Trento;538223;20090.06;83.5
+Umbria;Perugia;662110;18818.87;83.2
+Umbria;Terni;229071;18900.14;82.1
+Valle d'Aosta;Aosta;127329;20950.25;81.1
+Veneto;Belluno;206856;19936.81;82
+Veneto;Padova;936887;21623.36;83.2
+Veneto;Rovigo;240540;18212.34;81.8
+Veneto;Treviso;885447;20741.17;83.5
+Veneto;Venezia;855696;20741.84;82.8
+Veneto;Verona;922383;20546.59;82.8
+Veneto;Vicenza;867314;21004.73;82.9
