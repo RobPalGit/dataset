@@ -1,2 +1,2 @@
 # dataset used for web app
-# Prova
+# this folder is used as data repository to power data visualization apps
