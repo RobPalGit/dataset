@@ -5,7 +5,7 @@
 {'id':5,'name':'Ed', 'age':'36', 'job':'engineer', 'dept':3},
 {'id':6,'name':'Mark', 'age':'31', 'job':'manager', 'dept':2},
 {'id':7,'name':'Joy', 'age':'38', 'job':'developer'},
-{'id':8,'name':'Ken', 'age':'33', 'job':'engineer''dept':3},
+{'id':8,'name':'Ken', 'age':'33', 'job':'engineer', 'dept':3},
 {'id':9,'name':'Edy', 'age':'24', 'job':'manager', 'dept':4},
 {'id':10,'name':'Carl', 'age':'25', 'job':'developer'},
 {'id':11,'name':'Sam', 'age':'42', 'job':'engineer'},
