@@ -1,0 +1,365 @@
+{"id":248945814,"creation_time":"2021-06-05 11:54:19","activation_time":"2021-06-05 11:54:22","assignment_time":"2021-06-05 11:55:17","city_code":"CLJ","purchases_total_price_in_cents":5140}
+{"id":249062810,"creation_time":"2021-06-05 16:41:51","activation_time":"2021-06-05 16:41:52","assignment_time":"2021-06-05 16:57:01","city_code":"BUC","purchases_total_price_in_cents":19875}
+{"id":248877928,"creation_time":"2021-06-05 08:50:39","activation_time":"2021-06-05 08:50:40","assignment_time":"2021-06-05 08:54:30","city_code":"CLJ","purchases_total_price_in_cents":2950}
+{"id":249232489,"creation_time":"2021-06-05 23:07:51","activation_time":"2021-06-05 23:07:51","city_code":"CAS","purchases_total_price_in_cents":9200}
+{"id":249021805,"creation_time":"2021-06-05 14:43:48","activation_time":"2021-06-05 14:43:50","assignment_time":"2021-06-05 14:50:33","city_code":"ROM","purchases_total_price_in_cents":2305}
+{"id":248943961,"creation_time":"2021-06-05 11:51:11","activation_time":"2021-06-05 11:51:12","assignment_time":"2021-06-05 12:10:28","city_code":"BCN","purchases_total_price_in_cents":2865}
+{"id":248946834,"creation_time":"2021-06-05 11:56:06","activation_time":"2021-06-05 11:56:07","assignment_time":"2021-06-05 12:02:58","city_code":"BCN","purchases_total_price_in_cents":3135}
+{"id":249004693,"creation_time":"2021-06-05 13:55:29","activation_time":"2021-06-05 13:55:31","assignment_time":"2021-06-05 14:01:25","city_code":"MIL","purchases_total_price_in_cents":1190}
+{"id":249110793,"creation_time":"2021-06-05 18:15:01","activation_time":"2021-06-05 18:15:02","assignment_time":"2021-06-05 18:51:39","city_code":"TFN","purchases_total_price_in_cents":2278}
+{"id":249221336,"creation_time":"2021-06-05 21:22:02","activation_time":"2021-06-05 21:22:03","assignment_time":"2021-06-05 21:41:43","city_code":"BCN","purchases_total_price_in_cents":3370}
+{"id":249142478,"creation_time":"2021-06-05 18:58:38","activation_time":"2021-06-05 18:58:38","assignment_time":"2021-06-05 18:58:56","city_code":"MAD","purchases_total_price_in_cents":2655}
+{"id":248995742,"creation_time":"2021-06-05 13:31:25","activation_time":"2021-06-05 13:31:26","assignment_time":"2021-06-05 13:32:23","city_code":"PAL","purchases_total_price_in_cents":749}
+{"id":248879333,"creation_time":"2021-06-05 08:57:20","activation_time":"2021-06-05 08:57:21","assignment_time":"2021-06-05 09:05:44","city_code":"KIE","purchases_total_price_in_cents":14410}
+{"id":249222480,"creation_time":"2021-06-05 21:27:12","activation_time":"2021-06-05 21:27:15","assignment_time":"2021-06-05 21:31:03","city_code":"LIS","purchases_total_price_in_cents":820}
+{"id":249139154,"creation_time":"2021-06-05 18:54:20","activation_time":"2021-06-05 18:54:21","assignment_time":"2021-06-05 19:09:47","city_code":"ZPR","purchases_total_price_in_cents":16100}
+{"id":248952646,"creation_time":"2021-06-05 12:06:06","activation_time":"2021-06-05 12:06:41","assignment_time":"2021-06-05 12:06:59","city_code":"ALA","purchases_total_price_in_cents":1120000}
+{"id":249094974,"creation_time":"2021-06-05 17:48:58","activation_time":"2021-06-05 17:49:01","city_code":"ROM","purchases_total_price_in_cents":1280}
+{"id":249180384,"creation_time":"2021-06-05 19:49:01","activation_time":"2021-06-05 19:49:02","assignment_time":"2021-06-05 19:49:22","city_code":"ODS","purchases_total_price_in_cents":9400}
+{"id":249139599,"creation_time":"2021-06-05 18:54:52","activation_time":"2021-06-05 18:54:54","assignment_time":"2021-06-05 19:01:18","city_code":"MAD","purchases_total_price_in_cents":3780}
+{"id":249221439,"creation_time":"2021-06-05 21:22:29","activation_time":"2021-06-05 21:22:30","assignment_time":"2021-06-05 21:35:13","city_code":"MAD","purchases_total_price_in_cents":1490}
+{"id":249026459,"creation_time":"2021-06-05 14:58:12","activation_time":"2021-06-05 14:58:15","assignment_time":"2021-06-05 15:03:52","city_code":"CAS","purchases_total_price_in_cents":9500}
+{"id":248915196,"creation_time":"2021-06-05 10:55:35","activation_time":"2021-06-05 10:55:36","assignment_time":"2021-06-05 10:59:35","city_code":"MIL","purchases_total_price_in_cents":1800}
+{"id":248991684,"creation_time":"2021-06-05 13:21:41","activation_time":"2021-06-05 13:21:42","city_code":"MAD","purchases_total_price_in_cents":1569}
+{"id":249168050,"creation_time":"2021-06-05 19:31:30","activation_time":"2021-06-05 19:31:31","assignment_time":"2021-06-05 19:55:34","city_code":"MAD","purchases_total_price_in_cents":1898}
+{"id":249060248,"creation_time":"2021-06-05 16:35:03","activation_time":"2021-06-05 16:35:04","assignment_time":"2021-06-05 16:40:01","city_code":"WRO","purchases_total_price_in_cents":5250}
+{"id":249097768,"creation_time":"2021-06-05 17:53:52","activation_time":"2021-06-05 17:53:53","assignment_time":"2021-06-05 18:02:17","city_code":"TBI","purchases_total_price_in_cents":3120}
+{"id":249086841,"creation_time":"2021-06-05 17:34:22","activation_time":"2021-06-05 17:34:22","assignment_time":"2021-06-05 17:34:34","city_code":"ARD","purchases_total_price_in_cents":6000}
+{"id":248907351,"creation_time":"2021-06-05 10:35:53","activation_time":"2021-06-05 10:35:54","assignment_time":"2021-06-05 10:36:34","city_code":"LCG","purchases_total_price_in_cents":680}
+{"id":249197425,"creation_time":"2021-06-05 20:16:49","activation_time":"2021-06-05 20:16:50","assignment_time":"2021-06-05 20:17:22","city_code":"RBT","purchases_total_price_in_cents":8000}
+{"id":249154273,"creation_time":"2021-06-05 19:13:28","activation_time":"2021-06-05 19:13:31","assignment_time":"2021-06-05 19:14:00","city_code":"ROM","purchases_total_price_in_cents":1710}
+{"id":249015712,"creation_time":"2021-06-05 14:26:04","activation_time":"2021-06-05 14:26:04","assignment_time":"2021-06-05 14:48:12","city_code":"TOR","purchases_total_price_in_cents":2900}
+{"id":248861517,"creation_time":"2021-06-05 07:11:13","activation_time":"2021-06-05 07:11:13","assignment_time":"2021-06-05 07:11:33","city_code":"BCN","purchases_total_price_in_cents":1400}
+{"id":249068429,"creation_time":"2021-06-05 16:55:48","activation_time":"2021-06-05 16:55:49","assignment_time":"2021-06-05 16:56:03","city_code":"BEG","purchases_total_price_in_cents":65450}
+{"id":249008583,"creation_time":"2021-06-05 14:05:58","activation_time":"2021-06-05 14:05:58","assignment_time":"2021-06-05 14:08:22","city_code":"QSA","purchases_total_price_in_cents":735}
+{"id":248969657,"creation_time":"2021-06-05 12:35:57","activation_time":"2021-06-05 12:35:58","assignment_time":"2021-06-05 12:54:37","city_code":"MAD","purchases_total_price_in_cents":1910}
+{"id":249167563,"creation_time":"2021-06-05 19:30:50","activation_time":"2021-06-05 19:30:51","assignment_time":"2021-06-05 19:41:37","city_code":"ZAG","purchases_total_price_in_cents":9650}
+{"id":249205873,"creation_time":"2021-06-05 20:33:50","activation_time":"2021-06-05 20:33:53","assignment_time":"2021-06-05 20:37:33","city_code":"RBT","purchases_total_price_in_cents":13600}
+{"id":248931154,"creation_time":"2021-06-05 11:27:52","activation_time":"2021-06-05 11:27:53","assignment_time":"2021-06-05 11:47:04","city_code":"BCN","purchases_total_price_in_cents":2780}
+{"id":249162825,"creation_time":"2021-06-05 19:24:34","activation_time":"2021-06-05 19:24:35","assignment_time":"2021-06-05 19:30:26","city_code":"TBI","purchases_total_price_in_cents":2850}
+{"id":249027056,"creation_time":"2021-06-05 15:00:07","activation_time":"2021-06-05 15:00:07","assignment_time":"2021-06-05 15:00:18","city_code":"BUC","purchases_total_price_in_cents":17000}
+{"id":248864646,"creation_time":"2021-06-05 07:33:44","activation_time":"2021-06-05 07:33:44","assignment_time":"2021-06-05 07:34:20","city_code":"BUC","purchases_total_price_in_cents":12300}
+{"id":248933158,"creation_time":"2021-06-05 11:31:40","activation_time":"2021-06-05 11:31:40","assignment_time":"2021-06-05 11:36:59","city_code":"LVI","purchases_total_price_in_cents":27800}
+{"id":248891648,"creation_time":"2021-06-05 09:47:47","activation_time":"2021-06-05 09:47:49","assignment_time":"2021-06-05 10:00:14","city_code":"KUT","purchases_total_price_in_cents":1400}
+{"id":249010860,"creation_time":"2021-06-05 14:12:16","activation_time":"2021-06-05 14:12:17","assignment_time":"2021-06-05 14:14:06","city_code":"BEG","purchases_total_price_in_cents":53000}
+{"id":249128120,"creation_time":"2021-06-05 18:39:54","activation_time":"2021-06-05 18:39:56","assignment_time":"2021-06-05 18:43:02","city_code":"MOS","purchases_total_price_in_cents":2680}
+{"id":248882348,"creation_time":"2021-06-05 09:10:56","activation_time":"2021-06-05 09:11:33","assignment_time":"2021-06-05 09:27:50","city_code":"CAS","purchases_total_price_in_cents":21606}
+{"id":249079519,"creation_time":"2021-06-05 17:20:11","activation_time":"2021-06-05 17:20:12","assignment_time":"2021-06-05 17:20:30","city_code":"ODS","purchases_total_price_in_cents":49700}
+{"id":248880395,"creation_time":"2021-06-05 09:02:31","activation_time":"2021-06-05 09:02:32","city_code":"WRO","purchases_total_price_in_cents":3950}
+{"id":249219146,"creation_time":"2021-06-05 21:12:50","activation_time":"2021-06-05 21:12:51","assignment_time":"2021-06-05 21:16:16","city_code":"BCN","purchases_total_price_in_cents":4195}
+{"id":248950294,"creation_time":"2021-06-05 12:02:11","activation_time":"2021-06-05 12:02:12","city_code":"BCN","purchases_total_price_in_cents":860}
+{"id":248991886,"creation_time":"2021-06-05 13:22:06","activation_time":"2021-06-05 13:22:09","assignment_time":"2021-06-05 13:22:30","city_code":"BUC","purchases_total_price_in_cents":10640}
+{"id":248984042,"creation_time":"2021-06-05 13:04:38","activation_time":"2021-06-05 13:04:41","assignment_time":"2021-06-05 13:06:51","city_code":"KHA","purchases_total_price_in_cents":74700}
+{"id":248966252,"creation_time":"2021-06-05 12:29:46","activation_time":"2021-06-05 12:29:47","assignment_time":"2021-06-05 12:41:32","city_code":"ROM","purchases_total_price_in_cents":1200}
+{"id":249085362,"creation_time":"2021-06-05 17:31:39","activation_time":"2021-06-05 17:31:40","assignment_time":"2021-06-05 18:15:45","city_code":"KIW","purchases_total_price_in_cents":0,"cancel_reason":"SATURATION"}
+{"id":249162939,"creation_time":"2021-06-05 19:24:43","activation_time":"2021-06-05 19:24:44","assignment_time":"2021-06-05 19:33:14","city_code":"CAT","purchases_total_price_in_cents":850}
+{"id":249191989,"creation_time":"2021-06-05 20:07:24","activation_time":"2021-06-05 20:07:24","assignment_time":"2021-06-05 20:14:13","city_code":"ABJ","purchases_total_price_in_cents":11500}
+{"id":249184073,"creation_time":"2021-06-05 19:54:29","activation_time":"2021-06-05 19:54:29","assignment_time":"2021-06-05 20:06:20","city_code":"GRA","purchases_total_price_in_cents":1900}
+{"id":249133027,"creation_time":"2021-06-05 18:46:25","activation_time":"2021-06-05 18:46:26","assignment_time":"2021-06-05 18:48:03","city_code":"MAD","purchases_total_price_in_cents":1100}
+{"id":248905226,"creation_time":"2021-06-05 10:30:24","activation_time":"2021-06-05 10:30:59","assignment_time":"2021-06-05 10:45:56","city_code":"KIW","purchases_total_price_in_cents":21550}
+{"id":248960648,"creation_time":"2021-06-05 12:19:48","activation_time":"2021-06-05 12:19:49","assignment_time":"2021-06-05 12:20:47","city_code":"OPO","purchases_total_price_in_cents":1130}
+{"id":249097451,"creation_time":"2021-06-05 17:53:20","activation_time":"2021-06-05 17:53:21","assignment_time":"2021-06-05 18:01:37","city_code":"BCN","purchases_total_price_in_cents":999}
+{"id":248984621,"creation_time":"2021-06-05 13:05:57","activation_time":"2021-06-05 13:05:57","assignment_time":"2021-06-05 13:09:15","city_code":"KYI","purchases_total_price_in_cents":36900}
+{"id":248918197,"creation_time":"2021-06-05 11:02:32","activation_time":"2021-06-05 11:02:32","assignment_time":"2021-06-05 11:09:02","city_code":"KHA","purchases_total_price_in_cents":40230}
+{"id":249146601,"creation_time":"2021-06-05 19:03:44","activation_time":"2021-06-05 19:03:46","assignment_time":"2021-06-05 19:05:07","city_code":"MOS","purchases_total_price_in_cents":4180}
+{"id":249108520,"creation_time":"2021-06-05 18:11:33","activation_time":"2021-06-05 18:11:34","assignment_time":"2021-06-05 18:14:08","city_code":"KNT","purchases_total_price_in_cents":14501}
+{"id":249073358,"creation_time":"2021-06-05 17:07:38","activation_time":"2021-06-05 17:07:39","assignment_time":"2021-06-05 17:07:59","city_code":"BUC","purchases_total_price_in_cents":8200}
+{"id":249234203,"creation_time":"2021-06-05 23:35:34","scheduled_time":"2021-06-10 17:00:00","city_code":"ALC","purchases_total_price_in_cents":0,"cancel_reason":"SELF_CANCELLATION"}
+{"id":249181951,"creation_time":"2021-06-05 19:51:17","activation_time":"2021-06-05 19:51:18","assignment_time":"2021-06-05 20:06:25","city_code":"BCN","purchases_total_price_in_cents":1150}
+{"id":249039825,"creation_time":"2021-06-05 15:37:53","activation_time":"2021-06-05 15:37:53","assignment_time":"2021-06-05 15:38:16","city_code":"ABN","purchases_total_price_in_cents":3500}
+{"id":249020842,"creation_time":"2021-06-05 14:40:54","activation_time":"2021-06-05 14:40:55","assignment_time":"2021-06-05 14:59:28","city_code":"TBI","purchases_total_price_in_cents":1275}
+{"id":248923598,"creation_time":"2021-06-05 11:13:27","activation_time":"2021-06-05 11:13:28","assignment_time":"2021-06-05 11:20:44","city_code":"LIO","purchases_total_price_in_cents":1200}
+{"id":248991840,"creation_time":"2021-06-05 13:22:01","activation_time":"2021-06-05 13:22:01","assignment_time":"2021-06-05 13:38:17","city_code":"TBI","purchases_total_price_in_cents":1925}
+{"id":249189075,"creation_time":"2021-06-05 20:02:28","activation_time":"2021-06-05 20:02:30","assignment_time":"2021-06-05 20:07:39","city_code":"MAD","purchases_total_price_in_cents":1998}
+{"id":249117837,"creation_time":"2021-06-05 18:25:28","activation_time":"2021-06-05 18:25:29","assignment_time":"2021-06-05 18:25:40","city_code":"BUC","purchases_total_price_in_cents":1820}
+{"id":249081649,"creation_time":"2021-06-05 17:24:25","activation_time":"2021-06-05 17:24:25","assignment_time":"2021-06-05 17:29:27","city_code":"ROM","purchases_total_price_in_cents":1710}
+{"id":249024450,"creation_time":"2021-06-05 14:52:04","activation_time":"2021-06-05 14:52:06","assignment_time":"2021-06-05 14:52:19","city_code":"COI","purchases_total_price_in_cents":675}
+{"id":249067213,"creation_time":"2021-06-05 16:52:56","activation_time":"2021-06-05 16:52:57","city_code":"NMI","purchases_total_price_in_cents":1050}
+{"id":248937282,"creation_time":"2021-06-05 11:39:15","activation_time":"2021-06-05 11:39:45","assignment_time":"2021-06-05 11:40:01","city_code":"BCN","purchases_total_price_in_cents":2475}
+{"id":249105171,"creation_time":"2021-06-05 18:06:19","activation_time":"2021-06-05 18:06:22","assignment_time":"2021-06-05 18:23:05","city_code":"TBI","purchases_total_price_in_cents":3844}
+{"id":249087807,"creation_time":"2021-06-05 17:36:06","activation_time":"2021-06-05 17:36:07","assignment_time":"2021-06-05 18:06:36","city_code":"MAD","purchases_total_price_in_cents":1745}
+{"id":249189897,"creation_time":"2021-06-05 20:03:49","activation_time":"2021-06-05 20:03:52","assignment_time":"2021-06-05 20:04:08","city_code":"MIL","purchases_total_price_in_cents":2600}
+{"id":248937326,"creation_time":"2021-06-05 11:39:20","activation_time":"2021-06-05 11:39:21","assignment_time":"2021-06-05 11:56:51","city_code":"BCN","purchases_total_price_in_cents":1340}
+{"id":248965715,"creation_time":"2021-06-05 12:28:47","activation_time":"2021-06-05 12:28:48","assignment_time":"2021-06-05 12:35:12","city_code":"QSA","purchases_total_price_in_cents":1145}
+{"id":248976446,"creation_time":"2021-06-05 12:49:02","activation_time":"2021-06-05 12:49:02","assignment_time":"2021-06-05 12:49:15","city_code":"SEV","purchases_total_price_in_cents":1190}
+{"id":248917942,"creation_time":"2021-06-05 11:02:00","activation_time":"2021-06-05 11:02:01","assignment_time":"2021-06-05 11:02:19","city_code":"VIT","purchases_total_price_in_cents":1305}
+{"id":249133858,"creation_time":"2021-06-05 18:47:26","activation_time":"2021-06-05 18:47:27","assignment_time":"2021-06-05 19:04:05","city_code":"SIT","purchases_total_price_in_cents":600}
+{"id":248987924,"creation_time":"2021-06-05 13:13:05","activation_time":"2021-06-05 13:13:07","assignment_time":"2021-06-05 13:17:43","city_code":"BCN","purchases_total_price_in_cents":1091}
+{"id":249210824,"creation_time":"2021-06-05 20:45:46","activation_time":"2021-06-05 20:45:47","assignment_time":"2021-06-05 20:51:17","city_code":"NOM","purchases_total_price_in_cents":1900}
+{"id":249086849,"creation_time":"2021-06-05 17:34:22","activation_time":"2021-06-05 18:15:31","scheduled_time":"2021-06-05 18:00:00","assignment_time":"2021-06-05 18:42:17","city_code":"BCN","purchases_total_price_in_cents":4390}
+{"id":248883315,"creation_time":"2021-06-05 09:14:49","activation_time":"2021-06-05 09:14:50","assignment_time":"2021-06-05 09:15:56","city_code":"ALA","purchases_total_price_in_cents":570000}
+{"id":248995363,"creation_time":"2021-06-05 13:30:28","activation_time":"2021-06-05 13:31:43","assignment_time":"2021-06-05 13:33:12","city_code":"BCN","purchases_total_price_in_cents":2569}
+{"id":249029917,"creation_time":"2021-06-05 15:08:45","activation_time":"2021-06-05 15:08:46","city_code":"WAW","purchases_total_price_in_cents":8500}
+{"id":248876660,"creation_time":"2021-06-05 08:44:27","activation_time":"2021-06-05 08:44:28","assignment_time":"2021-06-05 09:14:03","city_code":"MAD","purchases_total_price_in_cents":6305}
+{"id":248901757,"creation_time":"2021-06-05 10:20:50","activation_time":"2021-06-05 10:21:38","assignment_time":"2021-06-05 10:30:22","city_code":"NBO","purchases_total_price_in_cents":140400}
+{"id":249084714,"creation_time":"2021-06-05 17:30:22","activation_time":"2021-06-05 17:30:23","assignment_time":"2021-06-05 17:30:36","city_code":"FIR","purchases_total_price_in_cents":1997}
+{"id":249049678,"creation_time":"2021-06-05 16:06:20","activation_time":"2021-06-05 16:06:21","assignment_time":"2021-06-05 16:06:33","city_code":"BUC","purchases_total_price_in_cents":5390}
+{"id":249149581,"creation_time":"2021-06-05 19:07:34","activation_time":"2021-06-05 19:07:35","assignment_time":"2021-06-05 19:38:56","city_code":"VAL","purchases_total_price_in_cents":2905}
+{"id":248869828,"creation_time":"2021-06-05 08:07:44","activation_time":"2021-06-05 08:09:25","assignment_time":"2021-06-05 08:15:31","city_code":"NBO","purchases_total_price_in_cents":314700}
+{"id":249000968,"creation_time":"2021-06-05 13:45:16","activation_time":"2021-06-05 13:45:16","assignment_time":"2021-06-05 14:08:22","city_code":"RJK","purchases_total_price_in_cents":5977}
+{"id":249055548,"creation_time":"2021-06-05 16:22:32","activation_time":"2021-06-05 16:22:34","city_code":"BUC","purchases_total_price_in_cents":0,"cancel_reason":"SELF_CANCELLATION"}
+{"id":248977636,"creation_time":"2021-06-05 12:51:23","activation_time":"2021-06-05 12:51:24","assignment_time":"2021-06-05 12:51:56","city_code":"MUR","purchases_total_price_in_cents":1580}
+{"id":248899320,"creation_time":"2021-06-05 10:13:53","activation_time":"2021-06-05 10:13:54","assignment_time":"2021-06-05 10:18:46","city_code":"BAR","purchases_total_price_in_cents":1340}
+{"id":248902640,"creation_time":"2021-06-05 10:23:18","activation_time":"2021-06-05 10:23:19","assignment_time":"2021-06-05 10:23:43","city_code":"KIE","purchases_total_price_in_cents":14300}
+{"id":248864390,"creation_time":"2021-06-05 07:32:01","activation_time":"2021-06-05 07:32:02","assignment_time":"2021-06-05 07:32:14","city_code":"KIE","purchases_total_price_in_cents":27200}
+{"id":248903212,"creation_time":"2021-06-05 10:24:48","activation_time":"2021-06-05 10:24:49","assignment_time":"2021-06-05 10:31:30","city_code":"MIL","purchases_total_price_in_cents":1359}
+{"id":249185949,"creation_time":"2021-06-05 19:57:26","activation_time":"2021-06-05 19:57:27","city_code":"VAL","purchases_total_price_in_cents":2174}
+{"id":249037470,"creation_time":"2021-06-05 15:30:54","activation_time":"2021-06-05 15:30:55","assignment_time":"2021-06-05 15:45:09","city_code":"TBI","purchases_total_price_in_cents":1700}
+{"id":248850227,"creation_time":"2021-06-05 00:04:30","activation_time":"2021-06-05 00:04:31","assignment_time":"2021-06-05 00:04:57","city_code":"TOR","purchases_total_price_in_cents":338}
+{"id":248948731,"creation_time":"2021-06-05 11:59:35","activation_time":"2021-06-05 11:59:36","assignment_time":"2021-06-05 12:01:10","city_code":"BCN","purchases_total_price_in_cents":2400}
+{"id":249090653,"creation_time":"2021-06-05 17:41:20","activation_time":"2021-06-05 17:41:21","assignment_time":"2021-06-05 17:42:27","city_code":"BAR","purchases_total_price_in_cents":865}
+{"id":249079130,"creation_time":"2021-06-05 17:19:24","activation_time":"2021-06-05 17:19:27","assignment_time":"2021-06-05 17:22:47","city_code":"VNT","purchases_total_price_in_cents":37400}
+{"id":249190387,"creation_time":"2021-06-05 20:04:41","activation_time":"2021-06-05 20:04:42","city_code":"CTA","purchases_total_price_in_cents":5500}
+{"id":248933592,"creation_time":"2021-06-05 11:32:22","activation_time":"2021-06-05 11:32:24","assignment_time":"2021-06-05 11:36:26","city_code":"TBI","purchases_total_price_in_cents":1550}
+{"id":248969891,"creation_time":"2021-06-05 12:36:21","activation_time":"2021-06-05 12:36:24","assignment_time":"2021-06-05 12:36:40","city_code":"CTA","purchases_total_price_in_cents":4190}
+{"id":248988233,"creation_time":"2021-06-05 13:13:46","activation_time":"2021-06-05 13:13:47","assignment_time":"2021-06-05 13:17:29","city_code":"BUC","purchases_total_price_in_cents":5900}
+{"id":249121119,"creation_time":"2021-06-05 18:30:06","activation_time":"2021-06-05 18:30:07","assignment_time":"2021-06-05 18:30:29","city_code":"ABN","purchases_total_price_in_cents":1890}
+{"id":248967976,"creation_time":"2021-06-05 12:32:55","activation_time":"2021-06-05 12:32:56","city_code":"BCN","purchases_total_price_in_cents":3429}
+{"id":249165609,"creation_time":"2021-06-05 19:28:10","activation_time":"2021-06-05 19:28:11","assignment_time":"2021-06-05 19:28:28","city_code":"BCN","purchases_total_price_in_cents":835}
+{"id":249191340,"creation_time":"2021-06-05 20:06:17","activation_time":"2021-06-05 20:06:17","assignment_time":"2021-06-05 20:25:43","city_code":"ABN","purchases_total_price_in_cents":4000}
+{"id":248935208,"creation_time":"2021-06-05 11:35:23","activation_time":"2021-06-05 11:35:26","assignment_time":"2021-06-05 11:37:15","city_code":"MHD","purchases_total_price_in_cents":7500}
+{"id":248987445,"creation_time":"2021-06-05 13:12:07","activation_time":"2021-06-05 13:12:08","assignment_time":"2021-06-05 13:26:45","city_code":"BUC","purchases_total_price_in_cents":1600}
+{"id":249067988,"creation_time":"2021-06-05 16:54:47","activation_time":"2021-06-05 16:54:47","assignment_time":"2021-06-05 17:00:21","city_code":"MIL","purchases_total_price_in_cents":2510}
+{"id":249216267,"creation_time":"2021-06-05 21:01:26","activation_time":"2021-06-05 21:01:27","assignment_time":"2021-06-05 21:24:23","city_code":"MAD","purchases_total_price_in_cents":3495}
+{"id":248852796,"creation_time":"2021-06-05 03:55:05","activation_time":"2021-06-05 03:55:08","assignment_time":"2021-06-05 03:59:14","city_code":"BSK","purchases_total_price_in_cents":106000}
+{"id":249105557,"creation_time":"2021-06-05 18:06:57","activation_time":"2021-06-05 18:07:00","assignment_time":"2021-06-05 18:07:11","city_code":"KIE","purchases_total_price_in_cents":17000}
+{"id":249037401,"creation_time":"2021-06-05 15:30:42","activation_time":"2021-06-05 15:30:44","assignment_time":"2021-06-05 15:45:07","city_code":"TBI","purchases_total_price_in_cents":2700}
+{"id":248956179,"creation_time":"2021-06-05 12:12:13","activation_time":"2021-06-05 12:12:13","assignment_time":"2021-06-05 12:12:25","city_code":"ROM","purchases_total_price_in_cents":840}
+{"id":249228222,"creation_time":"2021-06-05 22:12:47","activation_time":"2021-06-05 22:12:47","assignment_time":"2021-06-05 22:21:33","city_code":"MAD","purchases_total_price_in_cents":700}
+{"id":249190448,"creation_time":"2021-06-05 20:04:47","activation_time":"2021-06-05 20:04:49","assignment_time":"2021-06-05 20:18:53","city_code":"KNT","purchases_total_price_in_cents":11200}
+{"id":248954780,"creation_time":"2021-06-05 12:09:50","activation_time":"2021-06-05 12:09:51","assignment_time":"2021-06-05 12:19:33","city_code":"VAL","purchases_total_price_in_cents":2490}
+{"id":248925878,"creation_time":"2021-06-05 11:17:47","activation_time":"2021-06-05 11:18:02","assignment_time":"2021-06-05 11:30:46","city_code":"KIW","purchases_total_price_in_cents":29400}
+{"id":248973409,"creation_time":"2021-06-05 12:43:11","activation_time":"2021-06-05 12:43:13","assignment_time":"2021-06-05 12:44:57","city_code":"BUC","purchases_total_price_in_cents":1990}
+{"id":249177882,"creation_time":"2021-06-05 19:45:31","activation_time":"2021-06-05 19:45:32","assignment_time":"2021-06-05 19:53:27","city_code":"BUC","purchases_total_price_in_cents":7570}
+{"id":249219906,"creation_time":"2021-06-05 21:15:57","activation_time":"2021-06-05 21:15:57","assignment_time":"2021-06-05 21:16:26","city_code":"OPO","purchases_total_price_in_cents":2700}
+{"id":248946779,"creation_time":"2021-06-05 11:56:00","activation_time":"2021-06-05 11:56:01","assignment_time":"2021-06-05 12:05:44","city_code":"TBI","purchases_total_price_in_cents":1500}
+{"id":249081290,"creation_time":"2021-06-05 17:23:45","activation_time":"2021-06-05 17:23:45","assignment_time":"2021-06-05 17:44:16","city_code":"MAD","purchases_total_price_in_cents":1080}
+{"id":249082821,"creation_time":"2021-06-05 17:26:46","activation_time":"2021-06-05 17:26:47","assignment_time":"2021-06-05 17:28:19","city_code":"MAD","purchases_total_price_in_cents":748}
+{"id":248920364,"creation_time":"2021-06-05 11:07:02","activation_time":"2021-06-05 11:07:03","assignment_time":"2021-06-05 11:13:13","city_code":"LVI","purchases_total_price_in_cents":23000}
+{"id":249042125,"creation_time":"2021-06-05 15:44:19","activation_time":"2021-06-05 15:44:20","assignment_time":"2021-06-05 15:44:58","city_code":"KIW","purchases_total_price_in_cents":16900}
+{"id":249022262,"creation_time":"2021-06-05 14:45:18","activation_time":"2021-06-05 14:45:20","assignment_time":"2021-06-05 14:56:04","city_code":"CAS","purchases_total_price_in_cents":10900}
+{"id":248987720,"creation_time":"2021-06-05 13:12:41","activation_time":"2021-06-05 13:12:41","assignment_time":"2021-06-05 13:16:14","city_code":"NBO","purchases_total_price_in_cents":202500}
+{"id":249058638,"creation_time":"2021-06-05 16:30:42","activation_time":"2021-06-05 16:30:45","assignment_time":"2021-06-05 16:30:53","city_code":"MAR","purchases_total_price_in_cents":3700}
+{"id":248926247,"creation_time":"2021-06-05 11:18:31","activation_time":"2021-06-05 11:18:32","assignment_time":"2021-06-05 11:28:54","city_code":"BCN","purchases_total_price_in_cents":3595}
+{"id":248864492,"creation_time":"2021-06-05 07:32:42","activation_time":"2021-06-05 07:32:44","assignment_time":"2021-06-05 08:00:34","city_code":"WAW","purchases_total_price_in_cents":7720}
+{"id":249174125,"creation_time":"2021-06-05 19:40:13","activation_time":"2021-06-05 19:40:14","assignment_time":"2021-06-05 19:40:27","city_code":"KIE","purchases_total_price_in_cents":15100}
+{"id":248929932,"creation_time":"2021-06-05 11:25:33","activation_time":"2021-06-05 11:25:34","assignment_time":"2021-06-05 11:28:03","city_code":"BCN","purchases_total_price_in_cents":3196}
+{"id":249118946,"creation_time":"2021-06-05 18:26:58","activation_time":"2021-06-05 18:27:00","assignment_time":"2021-06-05 18:37:35","city_code":"MAD","purchases_total_price_in_cents":1880}
+{"id":249223343,"creation_time":"2021-06-05 21:32:30","activation_time":"2021-06-05 21:32:31","city_code":"BUC","purchases_total_price_in_cents":5800}
+{"id":249054807,"creation_time":"2021-06-05 16:20:28","activation_time":"2021-06-05 16:20:29","city_code":"TBI","purchases_total_price_in_cents":1890}
+{"id":248982857,"creation_time":"2021-06-05 13:02:08","activation_time":"2021-06-05 13:02:09","assignment_time":"2021-06-05 13:02:31","city_code":"ALA","purchases_total_price_in_cents":170000}
+{"id":249193657,"creation_time":"2021-06-05 20:10:12","activation_time":"2021-06-05 20:10:13","city_code":"MAD","purchases_total_price_in_cents":1525}
+{"id":248991552,"creation_time":"2021-06-05 13:21:22","activation_time":"2021-06-05 13:21:23","assignment_time":"2021-06-05 13:23:49","city_code":"MAL","purchases_total_price_in_cents":1415}
+{"id":249126564,"creation_time":"2021-06-05 18:37:49","activation_time":"2021-06-05 18:37:50","assignment_time":"2021-06-05 18:46:05","city_code":"ROM","purchases_total_price_in_cents":2330}
+{"id":248880876,"creation_time":"2021-06-05 09:04:37","activation_time":"2021-06-05 09:05:25","assignment_time":"2021-06-05 09:05:33","city_code":"TBI","purchases_total_price_in_cents":5200}
+{"id":248864411,"creation_time":"2021-06-05 07:32:12","activation_time":"2021-06-05 07:32:13","assignment_time":"2021-06-05 07:40:01","city_code":"KUT","purchases_total_price_in_cents":3100}
+{"id":248905161,"creation_time":"2021-06-05 10:30:10","activation_time":"2021-06-05 10:30:12","assignment_time":"2021-06-05 10:37:54","city_code":"KHA","purchases_total_price_in_cents":24400}
+{"id":248911388,"creation_time":"2021-06-05 10:46:15","activation_time":"2021-06-05 10:46:17","assignment_time":"2021-06-05 10:49:07","city_code":"MIL","purchases_total_price_in_cents":3280}
+{"id":249037043,"creation_time":"2021-06-05 15:29:39","activation_time":"2021-06-05 15:29:39","assignment_time":"2021-06-05 15:35:03","city_code":"NAP","purchases_total_price_in_cents":900}
+{"id":248913372,"creation_time":"2021-06-05 10:51:15","activation_time":"2021-06-05 11:00:32","scheduled_time":"2021-06-05 11:00:00","assignment_time":"2021-06-05 11:01:16","city_code":"BCN","purchases_total_price_in_cents":1450}
+{"id":249103498,"creation_time":"2021-06-05 18:03:38","activation_time":"2021-06-05 18:03:39","assignment_time":"2021-06-05 18:04:16","city_code":"VAL","purchases_total_price_in_cents":925}
+{"id":249059963,"creation_time":"2021-06-05 16:34:17","activation_time":"2021-06-05 16:34:18","assignment_time":"2021-06-05 16:38:04","city_code":"KYI","purchases_total_price_in_cents":116500}
+{"id":249052117,"creation_time":"2021-06-05 16:13:07","activation_time":"2021-06-05 16:13:09","city_code":"BUC","purchases_total_price_in_cents":2900}
+{"id":249190555,"creation_time":"2021-06-05 20:04:57","activation_time":"2021-06-05 20:04:59","assignment_time":"2021-06-05 20:06:24","city_code":"WAW","purchases_total_price_in_cents":6030}
+{"id":248858701,"creation_time":"2021-06-05 06:42:00","activation_time":"2021-06-05 06:42:02","assignment_time":"2021-06-05 06:42:14","city_code":"KHA","purchases_total_price_in_cents":21600}
+{"id":248909005,"creation_time":"2021-06-05 10:40:20","activation_time":"2021-06-05 10:40:22","assignment_time":"2021-06-05 10:40:44","city_code":"ROM","purchases_total_price_in_cents":2650}
+{"id":248910474,"creation_time":"2021-06-05 10:43:59","activation_time":"2021-06-05 10:43:59","assignment_time":"2021-06-05 10:47:05","city_code":"MIL","purchases_total_price_in_cents":1000}
+{"id":249199616,"creation_time":"2021-06-05 20:20:54","activation_time":"2021-06-05 20:20:54","assignment_time":"2021-06-05 20:38:36","city_code":"VAL","purchases_total_price_in_cents":885}
+{"id":248994508,"creation_time":"2021-06-05 13:28:19","activation_time":"2021-06-05 13:28:20","assignment_time":"2021-06-05 13:28:33","city_code":"NUR","purchases_total_price_in_cents":205000}
+{"id":249088240,"creation_time":"2021-06-05 17:36:54","activation_time":"2021-06-05 17:36:55","assignment_time":"2021-06-05 17:43:45","city_code":"BCN","purchases_total_price_in_cents":1250}
+{"id":248969947,"creation_time":"2021-06-05 12:36:31","activation_time":"2021-06-05 12:36:33","assignment_time":"2021-06-05 12:36:43","city_code":"TFN","purchases_total_price_in_cents":1150}
+{"id":248967961,"creation_time":"2021-06-05 12:32:53","activation_time":"2021-06-05 12:32:55","assignment_time":"2021-06-05 12:33:02","city_code":"WAW","purchases_total_price_in_cents":3330}
+{"id":248969842,"creation_time":"2021-06-05 12:36:17","activation_time":"2021-06-05 12:36:18","assignment_time":"2021-06-05 13:33:13","city_code":"SPU","purchases_total_price_in_cents":2900}
+{"id":249220974,"creation_time":"2021-06-05 21:20:16","activation_time":"2021-06-05 21:20:17","assignment_time":"2021-06-05 21:29:40","city_code":"TBI","purchases_total_price_in_cents":1600}
+{"id":249099339,"creation_time":"2021-06-05 17:56:34","activation_time":"2021-06-05 17:56:36","assignment_time":"2021-06-05 17:57:19","city_code":"ROM","purchases_total_price_in_cents":960}
+{"id":249020121,"creation_time":"2021-06-05 14:38:44","activation_time":"2021-06-05 14:38:45","assignment_time":"2021-06-05 15:06:47","city_code":"LVI","purchases_total_price_in_cents":13500}
+{"id":249150680,"creation_time":"2021-06-05 19:08:58","activation_time":"2021-06-05 19:09:00","assignment_time":"2021-06-05 19:19:35","city_code":"ROM","purchases_total_price_in_cents":620}
+{"id":248997311,"creation_time":"2021-06-05 13:35:28","activation_time":"2021-06-05 13:35:28","assignment_time":"2021-06-05 13:42:42","city_code":"BAT","purchases_total_price_in_cents":4325}
+{"id":248945146,"creation_time":"2021-06-05 11:53:09","activation_time":"2021-06-05 11:53:09","assignment_time":"2021-06-05 11:54:40","city_code":"LCG","purchases_total_price_in_cents":1405}
+{"id":249139050,"creation_time":"2021-06-05 18:54:13","activation_time":"2021-06-05 18:54:13","assignment_time":"2021-06-05 19:15:17","city_code":"LVI","purchases_total_price_in_cents":0,"cancel_reason":"PRODUCTS_NOT_AVAILABLE"}
+{"id":248955009,"creation_time":"2021-06-05 12:10:11","activation_time":"2021-06-05 12:10:12","assignment_time":"2021-06-05 12:10:18","city_code":"POZ","purchases_total_price_in_cents":3045}
+{"id":248965345,"creation_time":"2021-06-05 12:28:04","activation_time":"2021-06-05 12:28:05","assignment_time":"2021-06-05 12:45:58","city_code":"LPA","purchases_total_price_in_cents":3170}
+{"id":248984791,"creation_time":"2021-06-05 13:06:19","activation_time":"2021-06-05 13:06:20","assignment_time":"2021-06-05 13:06:52","city_code":"SEV","purchases_total_price_in_cents":4375}
+{"id":249052207,"creation_time":"2021-06-05 16:13:26","activation_time":"2021-06-05 16:14:10","assignment_time":"2021-06-05 16:14:27","city_code":"CAS","purchases_total_price_in_cents":47400}
+{"id":248938130,"creation_time":"2021-06-05 11:40:57","activation_time":"2021-06-05 11:40:57","assignment_time":"2021-06-05 11:46:52","city_code":"KYI","purchases_total_price_in_cents":24600}
+{"id":248921472,"creation_time":"2021-06-05 11:09:14","activation_time":"2021-06-05 11:09:15","assignment_time":"2021-06-05 11:09:31","city_code":"PNA","purchases_total_price_in_cents":800}
+{"id":249111583,"creation_time":"2021-06-05 18:16:09","activation_time":"2021-06-05 18:16:14","assignment_time":"2021-06-05 18:18:46","city_code":"ALA","purchases_total_price_in_cents":275000}
+{"id":248908728,"creation_time":"2021-06-05 10:39:36","activation_time":"2021-06-05 10:39:38","assignment_time":"2021-06-05 10:40:46","city_code":"TBI","purchases_total_price_in_cents":2380}
+{"id":249011846,"creation_time":"2021-06-05 14:14:57","activation_time":"2021-06-05 14:15:00","assignment_time":"2021-06-05 14:18:06","city_code":"KHA","purchases_total_price_in_cents":59000}
+{"id":249071364,"creation_time":"2021-06-05 17:02:53","activation_time":"2021-06-05 17:02:56","assignment_time":"2021-06-05 17:03:15","city_code":"KIW","purchases_total_price_in_cents":17900}
+{"id":248900375,"creation_time":"2021-06-05 10:16:54","activation_time":"2021-06-05 10:16:55","assignment_time":"2021-06-05 10:17:17","city_code":"TBI","purchases_total_price_in_cents":1875}
+{"id":249047797,"creation_time":"2021-06-05 16:00:46","activation_time":"2021-06-05 16:00:48","assignment_time":"2021-06-05 16:07:27","city_code":"KIW","purchases_total_price_in_cents":12500}
+{"id":249043360,"creation_time":"2021-06-05 15:47:54","activation_time":"2021-06-05 15:47:55","assignment_time":"2021-06-05 16:04:18","city_code":"TBI","purchases_total_price_in_cents":4480}
+{"id":249042715,"creation_time":"2021-06-05 15:46:02","activation_time":"2021-06-05 15:46:03","assignment_time":"2021-06-05 15:46:44","city_code":"TFN","purchases_total_price_in_cents":1220}
+{"id":248877250,"creation_time":"2021-06-05 08:47:13","activation_time":"2021-06-05 08:47:13","assignment_time":"2021-06-05 09:00:10","city_code":"BCN","purchases_total_price_in_cents":0}
+{"id":249099970,"creation_time":"2021-06-05 17:57:38","activation_time":"2021-06-05 17:57:38","assignment_time":"2021-06-05 17:59:13","city_code":"MIL","purchases_total_price_in_cents":1100}
+{"id":248890440,"creation_time":"2021-06-05 09:43:30","activation_time":"2021-06-05 09:43:30","city_code":"CLJ","purchases_total_price_in_cents":3100}
+{"id":248984218,"creation_time":"2021-06-05 13:05:06","activation_time":"2021-06-05 13:05:07","assignment_time":"2021-06-05 13:09:34","city_code":"KYI","purchases_total_price_in_cents":19200}
+{"id":249106343,"creation_time":"2021-06-05 18:08:10","activation_time":"2021-06-05 18:08:12","assignment_time":"2021-06-05 18:09:46","city_code":"KYI","purchases_total_price_in_cents":18800}
+{"id":249075539,"creation_time":"2021-06-05 17:12:14","activation_time":"2021-06-05 17:12:14","assignment_time":"2021-06-05 17:12:35","city_code":"RBT","purchases_total_price_in_cents":4800}
+{"id":249174438,"creation_time":"2021-06-05 19:40:38","activation_time":"2021-06-05 19:40:39","assignment_time":"2021-06-05 19:57:39","city_code":"MAD","purchases_total_price_in_cents":1450}
+{"id":249060243,"creation_time":"2021-06-05 16:35:03","activation_time":"2021-06-05 16:35:03","assignment_time":"2021-06-05 16:41:24","city_code":"KIE","purchases_total_price_in_cents":7130}
+{"id":249170384,"creation_time":"2021-06-05 19:34:47","activation_time":"2021-06-05 19:34:48","assignment_time":"2021-06-05 19:36:59","city_code":"QSA","purchases_total_price_in_cents":1760}
+{"id":249049646,"creation_time":"2021-06-05 16:06:14","activation_time":"2021-06-05 16:06:16","assignment_time":"2021-06-05 16:08:23","city_code":"BRV","purchases_total_price_in_cents":4898}
+{"id":249143418,"creation_time":"2021-06-05 18:59:47","activation_time":"2021-06-05 18:59:49","assignment_time":"2021-06-05 19:01:06","city_code":"BCN","purchases_total_price_in_cents":1240}
+{"id":248883154,"creation_time":"2021-06-05 09:14:09","activation_time":"2021-06-05 09:14:10","assignment_time":"2021-06-05 09:18:45","city_code":"BUC","purchases_total_price_in_cents":7225}
+{"id":248994756,"creation_time":"2021-06-05 13:28:58","activation_time":"2021-06-05 13:28:59","assignment_time":"2021-06-05 13:29:14","city_code":"KYI","purchases_total_price_in_cents":15600}
+{"id":248905929,"creation_time":"2021-06-05 10:32:16","activation_time":"2021-06-05 10:32:17","assignment_time":"2021-06-05 10:34:28","city_code":"KIW","purchases_total_price_in_cents":64600}
+{"id":248954945,"creation_time":"2021-06-05 12:10:05","activation_time":"2021-06-05 12:10:06","assignment_time":"2021-06-05 12:13:58","city_code":"PAL","purchases_total_price_in_cents":1580}
+{"id":249174016,"creation_time":"2021-06-05 19:40:04","activation_time":"2021-06-05 19:40:05","assignment_time":"2021-06-05 19:51:45","city_code":"VAL","purchases_total_price_in_cents":2110}
+{"id":248982492,"creation_time":"2021-06-05 13:01:22","activation_time":"2021-06-05 13:01:23","assignment_time":"2021-06-05 13:01:40","city_code":"BCN","purchases_total_price_in_cents":549}
+{"id":249167025,"creation_time":"2021-06-05 19:30:02","activation_time":"2021-06-05 19:30:04","assignment_time":"2021-06-05 19:31:44","city_code":"VAL","purchases_total_price_in_cents":2600}
+{"id":248894431,"creation_time":"2021-06-05 09:58:00","activation_time":"2021-06-05 09:58:03","assignment_time":"2021-06-05 09:58:24","city_code":"KYI","purchases_total_price_in_cents":16500}
+{"id":249174219,"creation_time":"2021-06-05 19:40:19","activation_time":"2021-06-06 05:20:42","scheduled_time":"2021-06-06 06:00:00","assignment_time":"2021-06-06 05:24:59","city_code":"CTA","purchases_total_price_in_cents":4570}
+{"id":249056339,"creation_time":"2021-06-05 16:24:40","activation_time":"2021-06-05 16:24:42","assignment_time":"2021-06-05 16:37:48","city_code":"KIE","purchases_total_price_in_cents":39000}
+{"id":248870509,"creation_time":"2021-06-05 08:11:35","activation_time":"2021-06-05 08:11:36","assignment_time":"2021-06-05 08:27:30","city_code":"KRA","purchases_total_price_in_cents":2749}
+{"id":249220492,"creation_time":"2021-06-05 21:18:15","activation_time":"2021-06-05 21:18:15","assignment_time":"2021-06-05 21:18:20","city_code":"OSI","purchases_total_price_in_cents":7300}
+{"id":249093032,"creation_time":"2021-06-05 17:45:36","activation_time":"2021-06-05 17:45:37","city_code":"BUC","purchases_total_price_in_cents":3590}
+{"id":248945248,"creation_time":"2021-06-05 11:53:20","activation_time":"2021-06-05 11:53:21","assignment_time":"2021-06-05 11:58:48","city_code":"CLJ","purchases_total_price_in_cents":5220}
+{"id":248851487,"creation_time":"2021-06-05 01:00:05","activation_time":"2021-06-05 01:00:05","assignment_time":"2021-06-05 01:00:20","city_code":"MIL","purchases_total_price_in_cents":1970}
+{"id":248977216,"creation_time":"2021-06-05 12:50:34","activation_time":"2021-06-05 12:50:35","assignment_time":"2021-06-05 12:52:45","city_code":"NAP","purchases_total_price_in_cents":590}
+{"id":248947232,"creation_time":"2021-06-05 11:56:50","activation_time":"2021-06-05 11:56:51","assignment_time":"2021-06-05 12:00:30","city_code":"MAD","purchases_total_price_in_cents":1635}
+{"id":248979139,"creation_time":"2021-06-05 12:54:23","activation_time":"2021-06-05 12:54:24","assignment_time":"2021-06-05 13:07:45","city_code":"BCN","purchases_total_price_in_cents":2580}
+{"id":248992860,"creation_time":"2021-06-05 13:24:21","activation_time":"2021-06-05 13:24:22","assignment_time":"2021-06-05 13:37:12","city_code":"LVI","purchases_total_price_in_cents":26000}
+{"id":248999976,"creation_time":"2021-06-05 13:42:35","activation_time":"2021-06-05 13:42:36","assignment_time":"2021-06-05 13:42:54","city_code":"MAD","purchases_total_price_in_cents":0,"cancel_reason":"STORE_CAN_NOT_DELIVER"}
+{"id":248886677,"creation_time":"2021-06-05 09:28:55","activation_time":"2021-06-05 09:28:57","assignment_time":"2021-06-05 09:29:50","city_code":"DNP","purchases_total_price_in_cents":29900}
+{"id":249002164,"creation_time":"2021-06-05 13:48:30","activation_time":"2021-06-05 13:48:31","assignment_time":"2021-06-05 13:50:21","city_code":"BUC","purchases_total_price_in_cents":4940}
+{"id":248985117,"creation_time":"2021-06-05 13:06:54","activation_time":"2021-06-05 13:06:58","assignment_time":"2021-06-05 13:13:07","city_code":"ODS","purchases_total_price_in_cents":26000}
+{"id":248916555,"creation_time":"2021-06-05 10:58:47","activation_time":"2021-06-05 10:58:48","city_code":"BOL","purchases_total_price_in_cents":1700}
+{"id":249052835,"creation_time":"2021-06-05 16:15:07","activation_time":"2021-06-05 16:15:07","assignment_time":"2021-06-05 16:40:37","city_code":"ABN","purchases_total_price_in_cents":7500}
+{"id":249130265,"creation_time":"2021-06-05 18:42:43","activation_time":"2021-06-05 18:42:44","assignment_time":"2021-06-05 18:45:09","city_code":"VAL","purchases_total_price_in_cents":2865}
+{"id":248878422,"creation_time":"2021-06-05 08:53:01","activation_time":"2021-06-05 08:53:02","assignment_time":"2021-06-05 09:00:19","city_code":"KIW","purchases_total_price_in_cents":17300}
+{"id":248902779,"creation_time":"2021-06-05 10:23:38","activation_time":"2021-06-05 10:23:40","assignment_time":"2021-06-05 10:40:38","city_code":"WAW","purchases_total_price_in_cents":13576}
+{"id":248950605,"creation_time":"2021-06-05 12:02:37","activation_time":"2021-06-05 12:02:39","assignment_time":"2021-06-05 12:23:34","city_code":"MIL","purchases_total_price_in_cents":2390}
+{"id":249183121,"creation_time":"2021-06-05 19:53:02","activation_time":"2021-06-05 19:53:03","city_code":"TOR","purchases_total_price_in_cents":1100}
+{"id":249012812,"creation_time":"2021-06-05 14:17:47","activation_time":"2021-06-05 14:17:47","assignment_time":"2021-06-05 14:18:03","city_code":"GRA","purchases_total_price_in_cents":1250}
+{"id":248994863,"creation_time":"2021-06-05 13:29:11","activation_time":"2021-06-05 13:29:14","assignment_time":"2021-06-05 13:29:27","city_code":"VNT","purchases_total_price_in_cents":42700}
+{"id":249045141,"creation_time":"2021-06-05 15:53:12","activation_time":"2021-06-05 15:53:13","assignment_time":"2021-06-05 16:01:45","city_code":"TBI","purchases_total_price_in_cents":2950}
+{"id":249017716,"creation_time":"2021-06-05 14:31:41","activation_time":"2021-06-05 14:31:43","assignment_time":"2021-06-05 14:48:08","city_code":"BUC","purchases_total_price_in_cents":22400}
+{"id":248994982,"creation_time":"2021-06-05 13:29:31","activation_time":"2021-06-05 13:29:33","assignment_time":"2021-06-05 13:29:47","city_code":"CTA","purchases_total_price_in_cents":2499}
+{"id":249114009,"creation_time":"2021-06-05 18:19:45","activation_time":"2021-06-05 18:19:48","assignment_time":"2021-06-05 18:20:06","city_code":"KIE","purchases_total_price_in_cents":11000}
+{"id":248943885,"creation_time":"2021-06-05 11:51:02","activation_time":"2021-06-05 11:51:04","assignment_time":"2021-06-05 12:04:30","city_code":"MAD","purchases_total_price_in_cents":2055}
+{"id":249063619,"creation_time":"2021-06-05 16:44:02","activation_time":"2021-06-05 16:44:03","assignment_time":"2021-06-05 16:51:20","city_code":"BCN","purchases_total_price_in_cents":1005}
+{"id":248985607,"creation_time":"2021-06-05 13:08:04","activation_time":"2021-06-05 13:08:06","assignment_time":"2021-06-05 13:08:34","city_code":"KHA","purchases_total_price_in_cents":19800}
+{"id":248959007,"creation_time":"2021-06-05 12:16:57","activation_time":"2021-06-05 12:16:57","assignment_time":"2021-06-05 12:24:44","city_code":"TBI","purchases_total_price_in_cents":2730}
+{"id":248992732,"creation_time":"2021-06-05 13:24:04","activation_time":"2021-06-05 13:24:04","assignment_time":"2021-06-05 13:27:57","city_code":"ACC","purchases_total_price_in_cents":3000}
+{"id":249028753,"creation_time":"2021-06-05 15:05:17","activation_time":"2021-06-05 15:05:18","assignment_time":"2021-06-05 15:05:40","city_code":"KHA","purchases_total_price_in_cents":9700}
+{"id":248853069,"creation_time":"2021-06-05 04:23:54","activation_time":"2021-06-05 04:23:55","assignment_time":"2021-06-05 04:24:38","city_code":"ALA","purchases_total_price_in_cents":365000}
+{"id":249209497,"creation_time":"2021-06-05 20:42:30","activation_time":"2021-06-05 20:42:31","assignment_time":"2021-06-05 20:42:52","city_code":"BUC","purchases_total_price_in_cents":2300}
+{"id":249011439,"creation_time":"2021-06-05 14:13:50","activation_time":"2021-06-05 14:13:51","assignment_time":"2021-06-05 14:33:43","city_code":"TFN","purchases_total_price_in_cents":5275}
+{"id":248980730,"creation_time":"2021-06-05 12:57:37","activation_time":"2021-06-05 12:57:38","assignment_time":"2021-06-05 13:05:42","city_code":"FUN","purchases_total_price_in_cents":1300}
+{"id":249033300,"creation_time":"2021-06-05 15:18:48","activation_time":"2021-06-05 15:18:49","assignment_time":"2021-06-05 15:19:03","city_code":"DNP","purchases_total_price_in_cents":51600}
+{"id":248870654,"creation_time":"2021-06-05 08:12:29","activation_time":"2021-06-05 08:17:48","assignment_time":"2021-06-05 08:28:06","city_code":"NUR","purchases_total_price_in_cents":84000}
+{"id":249100021,"creation_time":"2021-06-05 17:57:42","activation_time":"2021-06-05 17:57:43","city_code":"BCN","purchases_total_price_in_cents":2590}
+{"id":248945681,"creation_time":"2021-06-05 11:54:05","activation_time":"2021-06-05 11:54:06","assignment_time":"2021-06-05 11:54:21","city_code":"KYI","purchases_total_price_in_cents":25400}
+{"id":248888213,"creation_time":"2021-06-05 09:35:02","activation_time":"2021-06-05 09:35:28","assignment_time":"2021-06-05 09:38:36","city_code":"BCN","purchases_total_price_in_cents":2025}
+{"id":249147735,"creation_time":"2021-06-05 19:05:12","activation_time":"2021-06-05 19:05:13","assignment_time":"2021-06-05 19:05:38","city_code":"BCN","purchases_total_price_in_cents":395}
+{"id":249148238,"creation_time":"2021-06-05 19:05:50","activation_time":"2021-06-05 19:05:53","assignment_time":"2021-06-05 19:06:21","city_code":"LIS","purchases_total_price_in_cents":1084}
+{"id":249119386,"creation_time":"2021-06-05 18:27:34","activation_time":"2021-06-05 18:27:36","assignment_time":"2021-06-05 18:32:41","city_code":"GDN","purchases_total_price_in_cents":12260}
+{"id":248912632,"creation_time":"2021-06-05 10:49:22","activation_time":"2021-06-05 10:49:24","assignment_time":"2021-06-05 10:49:40","city_code":"BUC","purchases_total_price_in_cents":4770}
+{"id":249102296,"creation_time":"2021-06-05 18:01:33","activation_time":"2021-06-05 18:01:36","assignment_time":"2021-06-05 18:09:35","city_code":"RBT","purchases_total_price_in_cents":10700}
+{"id":249051521,"creation_time":"2021-06-05 16:11:35","activation_time":"2021-06-05 16:11:36","assignment_time":"2021-06-05 16:20:45","city_code":"TBI","purchases_total_price_in_cents":2790}
+{"id":249001204,"creation_time":"2021-06-05 13:45:53","activation_time":"2021-06-05 13:45:53","assignment_time":"2021-06-05 15:46:15","city_code":"BCN","purchases_total_price_in_cents":0,"cancel_reason":"SATURATION"}
+{"id":249139550,"creation_time":"2021-06-05 18:54:49","activation_time":"2021-06-05 18:54:49","assignment_time":"2021-06-05 18:57:38","city_code":"ABN","purchases_total_price_in_cents":4600}
+{"id":249173342,"creation_time":"2021-06-05 19:39:04","activation_time":"2021-06-05 19:39:05","assignment_time":"2021-06-05 19:44:04","city_code":"LIS","purchases_total_price_in_cents":1700}
+{"id":248950784,"creation_time":"2021-06-05 12:02:58","activation_time":"2021-06-05 12:02:59","assignment_time":"2021-06-05 12:14:28","city_code":"BCN","purchases_total_price_in_cents":2000}
+{"id":248927871,"creation_time":"2021-06-05 11:21:38","activation_time":"2021-06-05 12:01:45","scheduled_time":"2021-06-05 12:00:31","assignment_time":"2021-06-05 12:06:38","city_code":"MAD","purchases_total_price_in_cents":0,"cancel_reason":"SATURATION"}
+{"id":248957299,"creation_time":"2021-06-05 12:14:01","activation_time":"2021-06-05 12:14:02","assignment_time":"2021-06-05 12:27:09","city_code":"MAD","purchases_total_price_in_cents":1580}
+{"id":249034257,"creation_time":"2021-06-05 15:21:42","activation_time":"2021-06-05 15:21:43","assignment_time":"2021-06-05 15:22:08","city_code":"LIS","purchases_total_price_in_cents":200}
+{"id":248851223,"creation_time":"2021-06-05 00:43:56","activation_time":"2021-06-05 07:26:16","scheduled_time":"2021-06-05 08:00:00","assignment_time":"2021-06-05 07:27:00","city_code":"BUC","purchases_total_price_in_cents":1350}
+{"id":248915846,"creation_time":"2021-06-05 10:57:07","activation_time":"2021-06-05 10:57:08","assignment_time":"2021-06-05 10:57:15","city_code":"TBI","purchases_total_price_in_cents":0}
+{"id":249039312,"creation_time":"2021-06-05 15:36:28","activation_time":"2021-06-05 17:55:46","scheduled_time":"2021-06-05 18:00:00","assignment_time":"2021-06-05 18:00:28","city_code":"ROM","purchases_total_price_in_cents":2490}
+{"id":249009971,"creation_time":"2021-06-05 14:09:44","activation_time":"2021-06-05 14:09:47","assignment_time":"2021-06-05 14:09:55","city_code":"IAS","purchases_total_price_in_cents":4050}
+{"id":249201098,"creation_time":"2021-06-05 20:23:46","activation_time":"2021-06-05 20:23:46","assignment_time":"2021-06-05 20:36:29","city_code":"PDG","purchases_total_price_in_cents":940}
+{"id":248974335,"creation_time":"2021-06-05 12:44:59","activation_time":"2021-06-05 12:45:01","assignment_time":"2021-06-05 12:47:14","city_code":"WAW","purchases_total_price_in_cents":3590}
+{"id":249089326,"creation_time":"2021-06-05 17:38:51","activation_time":"2021-06-05 17:38:52","assignment_time":"2021-06-05 17:46:19","city_code":"DNP","purchases_total_price_in_cents":17700}
+{"id":249046260,"creation_time":"2021-06-05 15:56:25","activation_time":"2021-06-05 15:56:27","assignment_time":"2021-06-05 16:00:15","city_code":"ALA","purchases_total_price_in_cents":265000}
+{"id":249106645,"creation_time":"2021-06-05 18:08:40","activation_time":"2021-06-05 18:08:40","assignment_time":"2021-06-05 18:12:47","city_code":"TOR","purchases_total_price_in_cents":4090}
+{"id":249185022,"creation_time":"2021-06-05 19:56:02","activation_time":"2021-06-05 19:56:03","assignment_time":"2021-06-05 20:04:08","city_code":"SOM","purchases_total_price_in_cents":2130}
+{"id":249003128,"creation_time":"2021-06-05 13:51:09","activation_time":"2021-06-05 13:51:09","assignment_time":"2021-06-05 13:54:36","city_code":"TIM","purchases_total_price_in_cents":7896}
+{"id":249138071,"creation_time":"2021-06-05 18:52:55","activation_time":"2021-06-05 18:52:55","assignment_time":"2021-06-05 18:58:26","city_code":"ROM","purchases_total_price_in_cents":3855}
+{"id":249194114,"creation_time":"2021-06-05 20:11:01","activation_time":"2021-06-05 20:11:03","assignment_time":"2021-06-05 20:12:56","city_code":"RBT","purchases_total_price_in_cents":14300}
+{"id":249192142,"creation_time":"2021-06-05 20:07:40","activation_time":"2021-06-05 20:07:41","assignment_time":"2021-06-05 20:18:45","city_code":"PAL","purchases_total_price_in_cents":1030}
+{"id":248933575,"creation_time":"2021-06-05 11:32:21","activation_time":"2021-06-05 11:32:22","city_code":"CTA","purchases_total_price_in_cents":4000}
+{"id":248886174,"creation_time":"2021-06-05 09:26:48","activation_time":"2021-06-05 09:26:50","assignment_time":"2021-06-05 09:46:06","city_code":"WAW","purchases_total_price_in_cents":21105}
+{"id":249039729,"creation_time":"2021-06-05 15:37:36","activation_time":"2021-06-05 15:37:37","assignment_time":"2021-06-05 15:39:18","city_code":"DNP","purchases_total_price_in_cents":36500}
+{"id":249123338,"creation_time":"2021-06-05 18:33:22","activation_time":"2021-06-05 18:33:23","assignment_time":"2021-06-05 18:33:36","city_code":"SEV","purchases_total_price_in_cents":815}
+{"id":248903746,"creation_time":"2021-06-05 10:26:15","activation_time":"2021-06-05 10:26:15","assignment_time":"2021-06-05 10:30:07","city_code":"TOR","purchases_total_price_in_cents":2060}
+{"id":248864726,"creation_time":"2021-06-05 07:34:13","activation_time":"2021-06-05 07:34:15","assignment_time":"2021-06-05 07:37:28","city_code":"KHA","purchases_total_price_in_cents":20800}
+{"id":248978344,"creation_time":"2021-06-05 12:52:47","activation_time":"2021-06-05 12:52:47","assignment_time":"2021-06-05 13:00:09","city_code":"RJK","purchases_total_price_in_cents":9400}
+{"id":249180628,"creation_time":"2021-06-05 19:49:22","activation_time":"2021-06-05 19:49:23","city_code":"MAD","purchases_total_price_in_cents":3510}
+{"id":249159304,"creation_time":"2021-06-05 19:20:05","activation_time":"2021-06-05 19:20:05","assignment_time":"2021-06-05 19:31:28","city_code":"KUT","purchases_total_price_in_cents":4600}
+{"id":249093568,"creation_time":"2021-06-05 17:46:33","activation_time":"2021-06-05 18:00:41","scheduled_time":"2021-06-05 18:00:00","assignment_time":"2021-06-05 18:03:53","city_code":"COI","purchases_total_price_in_cents":1430}
+{"id":248897093,"creation_time":"2021-06-05 10:06:59","activation_time":"2021-06-05 10:07:00","city_code":"BUC","purchases_total_price_in_cents":5500,"cancel_reason":"SELF_CANCELLATION"}
+{"id":249233887,"creation_time":"2021-06-05 23:29:32","activation_time":"2021-06-05 23:29:34","city_code":"TOR","purchases_total_price_in_cents":1500}
+{"id":249168935,"creation_time":"2021-06-05 19:32:45","activation_time":"2021-06-05 19:32:45","assignment_time":"2021-06-05 19:32:58","city_code":"TBI","purchases_total_price_in_cents":3880}
+{"id":249083244,"creation_time":"2021-06-05 17:27:33","activation_time":"2021-06-05 17:27:34","assignment_time":"2021-06-05 17:30:25","city_code":"LIS","purchases_total_price_in_cents":6025}
+{"id":248919585,"creation_time":"2021-06-05 11:05:27","activation_time":"2021-06-05 11:05:28","assignment_time":"2021-06-05 11:05:45","city_code":"BUC","purchases_total_price_in_cents":4980}
+{"id":248857785,"creation_time":"2021-06-05 06:28:49","activation_time":"2021-06-05 06:29:16","assignment_time":"2021-06-05 06:29:28","city_code":"TBI","purchases_total_price_in_cents":1100}
+{"id":248855835,"creation_time":"2021-06-05 05:59:26","activation_time":"2021-06-05 05:59:59","assignment_time":"2021-06-05 06:00:41","city_code":"BCN","purchases_total_price_in_cents":1540}
+{"id":249211574,"creation_time":"2021-06-05 20:47:47","activation_time":"2021-06-05 20:47:48","city_code":"MAD","purchases_total_price_in_cents":995}
+{"id":248994690,"creation_time":"2021-06-05 13:28:44","activation_time":"2021-06-05 13:28:48","assignment_time":"2021-06-05 13:29:03","city_code":"AGD","purchases_total_price_in_cents":10100}
+{"id":249060213,"creation_time":"2021-06-05 16:34:59","activation_time":"2021-06-05 16:34:59","assignment_time":"2021-06-05 16:53:10","city_code":"MOS","purchases_total_price_in_cents":950}
+{"id":249201950,"creation_time":"2021-06-05 20:25:25","activation_time":"2021-06-05 20:25:26","assignment_time":"2021-06-05 20:30:51","city_code":"BCN","purchases_total_price_in_cents":1825}
+{"id":249171915,"creation_time":"2021-06-05 19:36:55","activation_time":"2021-06-05 19:36:56","assignment_time":"2021-06-05 19:38:52","city_code":"VAL","purchases_total_price_in_cents":8430}
+{"id":248971810,"creation_time":"2021-06-05 12:40:02","activation_time":"2021-06-05 12:40:05","city_code":"OPO","purchases_total_price_in_cents":2360}
+{"id":249020502,"creation_time":"2021-06-05 14:39:56","activation_time":"2021-06-05 14:39:57","city_code":"TBI","purchases_total_price_in_cents":0,"cancel_reason":"STORE_NOT_CHECKED_IN"}
+{"id":248994320,"creation_time":"2021-06-05 13:27:54","activation_time":"2021-06-05 13:27:55","assignment_time":"2021-06-05 13:28:09","city_code":"LIS","purchases_total_price_in_cents":975}
+{"id":248894973,"creation_time":"2021-06-05 09:59:53","activation_time":"2021-06-05 09:59:55","assignment_time":"2021-06-05 10:00:18","city_code":"CLJ","purchases_total_price_in_cents":4590}
+{"id":248994654,"creation_time":"2021-06-05 13:28:42","activation_time":"2021-06-05 13:28:44","assignment_time":"2021-06-05 13:28:56","city_code":"KNT","purchases_total_price_in_cents":6400}
+{"id":248933559,"creation_time":"2021-06-05 11:32:17","activation_time":"2021-06-05 11:32:20","assignment_time":"2021-06-05 11:32:36","city_code":"LIS","purchases_total_price_in_cents":645}
+{"id":249054473,"creation_time":"2021-06-05 16:19:32","activation_time":"2021-06-05 16:19:33","assignment_time":"2021-06-05 16:22:14","city_code":"WAW","purchases_total_price_in_cents":3600}
+{"id":249067678,"creation_time":"2021-06-05 16:53:58","activation_time":"2021-06-05 16:53:59","assignment_time":"2021-06-05 17:00:21","city_code":"TOR","purchases_total_price_in_cents":1750}
+{"id":249157228,"creation_time":"2021-06-05 19:17:23","activation_time":"2021-06-05 19:17:25","assignment_time":"2021-06-05 19:30:26","city_code":"TFN","purchases_total_price_in_cents":1260}
+{"id":249234264,"creation_time":"2021-06-05 23:36:18","activation_time":"2021-06-05 23:36:19","assignment_time":"2021-06-05 23:37:11","city_code":"BCN","purchases_total_price_in_cents":990}
+{"id":249234749,"creation_time":"2021-06-05 23:44:34","activation_time":"2021-06-05 23:44:34","assignment_time":"2021-06-05 23:49:02","city_code":"ROM","purchases_total_price_in_cents":815}
+{"id":248927608,"creation_time":"2021-06-05 11:21:08","activation_time":"2021-06-05 11:21:09","assignment_time":"2021-06-05 11:22:38","city_code":"TFN","purchases_total_price_in_cents":3150}
+{"id":248994142,"creation_time":"2021-06-05 13:27:27","activation_time":"2021-06-05 13:27:28","assignment_time":"2021-06-05 13:28:02","city_code":"KYI","purchases_total_price_in_cents":17900}
+{"id":248857112,"creation_time":"2021-06-05 06:19:31","activation_time":"2021-06-05 06:19:32","assignment_time":"2021-06-05 06:21:13","city_code":"KYI","purchases_total_price_in_cents":32100}
+{"id":249055416,"creation_time":"2021-06-05 16:22:12","activation_time":"2021-06-05 16:22:13","assignment_time":"2021-06-05 16:22:49","city_code":"BRV","purchases_total_price_in_cents":900}
+{"id":249076807,"creation_time":"2021-06-05 17:14:43","activation_time":"2021-06-05 17:14:44","assignment_time":"2021-06-05 17:20:00","city_code":"LIS","purchases_total_price_in_cents":970}
+{"id":249106471,"creation_time":"2021-06-05 18:08:23","activation_time":"2021-06-05 18:08:24","city_code":"BIL","purchases_total_price_in_cents":1539}
+{"id":248874119,"creation_time":"2021-06-05 08:31:15","activation_time":"2021-06-05 08:31:15","assignment_time":"2021-06-05 08:31:25","city_code":"NBO","purchases_total_price_in_cents":99900}
+{"id":248931849,"creation_time":"2021-06-05 11:29:15","activation_time":"2021-06-05 11:29:15","assignment_time":"2021-06-05 11:34:18","city_code":"MAD","purchases_total_price_in_cents":1850}
+{"id":248994543,"creation_time":"2021-06-05 13:28:24","activation_time":"2021-06-05 13:28:25","assignment_time":"2021-06-05 13:33:52","city_code":"RBT","purchases_total_price_in_cents":8000}
+{"id":248952963,"creation_time":"2021-06-05 12:06:38","activation_time":"2021-06-05 12:06:39","assignment_time":"2021-06-05 12:33:00","city_code":"RBT","purchases_total_price_in_cents":2000}
+{"id":248864147,"creation_time":"2021-06-05 07:30:13","activation_time":"2021-06-05 07:30:14","city_code":"KIW","purchases_total_price_in_cents":35600}
+{"id":248928920,"creation_time":"2021-06-05 11:23:38","activation_time":"2021-06-05 11:23:39","assignment_time":"2021-06-05 11:25:09","city_code":"KIW","purchases_total_price_in_cents":33000}
+{"id":248889793,"creation_time":"2021-06-05 09:41:03","activation_time":"2021-06-05 09:41:05","assignment_time":"2021-06-05 09:41:41","city_code":"KYI","purchases_total_price_in_cents":15600}
+{"id":249111358,"creation_time":"2021-06-05 18:15:54","activation_time":"2021-06-05 18:15:54","assignment_time":"2021-06-05 18:16:06","city_code":"CAS","purchases_total_price_in_cents":0}
+{"id":249108875,"creation_time":"2021-06-05 18:12:06","activation_time":"2021-06-05 18:12:06","assignment_time":"2021-06-05 18:28:58","city_code":"MAD","purchases_total_price_in_cents":1750}
+{"id":249114267,"creation_time":"2021-06-05 18:20:10","activation_time":"2021-06-05 18:20:11","assignment_time":"2021-06-05 18:30:27","city_code":"MAD","purchases_total_price_in_cents":3415}
+{"id":249157657,"creation_time":"2021-06-05 19:17:58","activation_time":"2021-06-05 19:18:00","assignment_time":"2021-06-05 19:28:00","city_code":"LIS","purchases_total_price_in_cents":1050}
+{"id":248960518,"creation_time":"2021-06-05 12:19:35","activation_time":"2021-06-05 12:19:36","assignment_time":"2021-06-05 12:21:02","city_code":"BRV","purchases_total_price_in_cents":4150}
+{"id":249228637,"creation_time":"2021-06-05 22:17:14","activation_time":"2021-06-05 22:17:15","assignment_time":"2021-06-05 22:17:35","city_code":"MAD","purchases_total_price_in_cents":2596}
+{"id":249193938,"creation_time":"2021-06-05 20:10:43","activation_time":"2021-06-05 20:10:44","assignment_time":"2021-06-05 20:20:31","city_code":"BIL","purchases_total_price_in_cents":1350}
+{"id":249179028,"creation_time":"2021-06-05 19:47:03","activation_time":"2021-06-05 19:47:04","assignment_time":"2021-06-05 20:23:32","city_code":"NOM","purchases_total_price_in_cents":3470}
+{"id":249034747,"creation_time":"2021-06-05 15:23:03","activation_time":"2021-06-05 15:23:04","assignment_time":"2021-06-05 15:23:24","city_code":"MAD","purchases_total_price_in_cents":890}
+{"id":249018240,"creation_time":"2021-06-05 14:33:16","activation_time":"2021-06-05 14:33:17","assignment_time":"2021-06-05 14:38:45","city_code":"CAS","purchases_total_price_in_cents":5525}
+{"id":248960392,"creation_time":"2021-06-05 12:19:22","activation_time":"2021-06-05 12:19:22","city_code":"MAD","purchases_total_price_in_cents":0,"cancel_reason":"SELF_CANCELLATION"}
+{"id":249216437,"creation_time":"2021-06-05 21:02:00","activation_time":"2021-06-05 21:02:02","assignment_time":"2021-06-05 21:15:13","city_code":"TBI","purchases_total_price_in_cents":1200}
+{"id":248877808,"creation_time":"2021-06-05 08:49:59","activation_time":"2021-06-05 08:50:00","assignment_time":"2021-06-05 08:51:00","city_code":"BUC","purchases_total_price_in_cents":7000}
+{"id":248975209,"creation_time":"2021-06-05 12:46:40","activation_time":"2021-06-05 13:00:51","scheduled_time":"2021-06-05 13:00:00","assignment_time":"2021-06-05 13:01:03","city_code":"ZAR","purchases_total_price_in_cents":1150}
+{"id":249025858,"creation_time":"2021-06-05 14:56:27","activation_time":"2021-06-05 14:56:28","city_code":"BUC","purchases_total_price_in_cents":3500}
+{"id":249140210,"creation_time":"2021-06-05 18:55:41","activation_time":"2021-06-05 18:55:42","assignment_time":"2021-06-05 19:14:45","city_code":"KIW","purchases_total_price_in_cents":16500}
+{"id":248922974,"creation_time":"2021-06-05 11:12:10","activation_time":"2021-06-05 11:12:12","assignment_time":"2021-06-05 11:18:47","city_code":"DNP","purchases_total_price_in_cents":26800}
+{"id":248995029,"creation_time":"2021-06-05 13:29:40","activation_time":"2021-06-05 13:29:41","assignment_time":"2021-06-05 13:31:05","city_code":"OPO","purchases_total_price_in_cents":1180}
+{"id":249178005,"creation_time":"2021-06-05 19:45:43","activation_time":"2021-06-05 19:45:44","assignment_time":"2021-06-05 19:47:36","city_code":"VIG","purchases_total_price_in_cents":1140}
+{"id":249051338,"creation_time":"2021-06-05 16:11:00","activation_time":"2021-06-05 16:11:02","city_code":"QYD","purchases_total_price_in_cents":2000}
+{"id":248903952,"creation_time":"2021-06-05 10:26:50","activation_time":"2021-06-05 10:26:53","assignment_time":"2021-06-05 10:41:00","city_code":"MAD","purchases_total_price_in_cents":2615}
+{"id":249153410,"creation_time":"2021-06-05 19:12:24","activation_time":"2021-06-05 19:12:26","assignment_time":"2021-06-05 19:14:08","city_code":"LVI","purchases_total_price_in_cents":22600}
+{"id":249022210,"creation_time":"2021-06-05 14:45:08","activation_time":"2021-06-05 14:45:09","assignment_time":"2021-06-05 15:01:35","city_code":"ROM","purchases_total_price_in_cents":1690}
+{"id":249017463,"creation_time":"2021-06-05 14:30:57","activation_time":"2021-06-05 14:30:58","assignment_time":"2021-06-05 14:31:12","city_code":"KIE","purchases_total_price_in_cents":29900}
+{"id":248982052,"creation_time":"2021-06-05 13:00:25","activation_time":"2021-06-05 13:00:25","assignment_time":"2021-06-05 13:02:38","city_code":"ZAG","purchases_total_price_in_cents":2700}
+{"id":249154992,"creation_time":"2021-06-05 19:14:26","activation_time":"2021-06-05 19:14:27","assignment_time":"2021-06-05 19:23:50","city_code":"MOS","purchases_total_price_in_cents":1680}
+{"id":248881987,"creation_time":"2021-06-05 09:09:26","activation_time":"2021-06-05 09:09:27","city_code":"KYI","purchases_total_price_in_cents":61400}
+{"id":249212267,"creation_time":"2021-06-05 20:49:39","activation_time":"2021-06-05 20:49:39","assignment_time":"2021-06-05 20:49:49","city_code":"TOR","purchases_total_price_in_cents":2200}
+{"id":248997452,"creation_time":"2021-06-05 13:35:50","activation_time":"2021-06-05 13:35:51","assignment_time":"2021-06-05 13:43:57","city_code":"BCN","purchases_total_price_in_cents":1250}
+{"id":249052749,"creation_time":"2021-06-05 16:14:53","activation_time":"2021-06-05 16:14:54","assignment_time":"2021-06-05 16:15:29","city_code":"AGD","purchases_total_price_in_cents":13100}
+{"id":248922501,"creation_time":"2021-06-05 11:11:15","activation_time":"2021-06-05 11:11:16","assignment_time":"2021-06-05 11:16:56","city_code":"BCN","purchases_total_price_in_cents":1670}
+{"id":248911590,"creation_time":"2021-06-05 10:46:47","activation_time":"2021-06-05 10:46:49","assignment_time":"2021-06-05 10:47:14","city_code":"BCN","purchases_total_price_in_cents":2298}
+{"id":248870478,"creation_time":"2021-06-05 08:11:25","activation_time":"2021-06-05 08:11:26","assignment_time":"2021-06-05 08:30:10","city_code":"ODS","purchases_total_price_in_cents":53700}
+{"id":249087748,"creation_time":"2021-06-05 17:35:57","activation_time":"2021-06-05 17:36:00","assignment_time":"2021-06-05 17:42:55","city_code":"LVI","purchases_total_price_in_cents":27200}
+{"id":249043527,"creation_time":"2021-06-05 15:48:20","activation_time":"2021-06-05 16:55:42","scheduled_time":"2021-06-05 17:00:00","assignment_time":"2021-06-05 17:07:06","city_code":"ROM","purchases_total_price_in_cents":570}
+{"id":248906659,"creation_time":"2021-06-05 10:34:10","activation_time":"2021-06-05 10:34:12","assignment_time":"2021-06-05 10:38:50","city_code":"NUR","purchases_total_price_in_cents":889700}
+{"id":249041697,"creation_time":"2021-06-05 15:43:09","activation_time":"2021-06-05 15:43:33","assignment_time":"2021-06-05 16:30:00","city_code":"MAD","purchases_total_price_in_cents":490}
